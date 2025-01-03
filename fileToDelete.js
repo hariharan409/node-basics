@@ -1,0 +1,1 @@
+let type = "I am the deleted file";
